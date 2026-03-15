@@ -1,0 +1,24 @@
+{
+  "coins": [
+    {
+      "id": "bitcoin",
+      "quantity": 0.5,
+      "avg_buy_price": 45000.0
+    },
+    {
+      "id": "ethereum",
+      "quantity": 5.0,
+      "avg_buy_price": 3200.0
+    },
+    {
+      "id": "solana",
+      "quantity": 100.0,
+      "avg_buy_price": 150.0
+    },
+    {
+      "id": "cardano",
+      "quantity": 1000.0,
+      "avg_buy_price": 0.5
+    }
+  ]
+}
